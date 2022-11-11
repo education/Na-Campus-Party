@@ -59,8 +59,3 @@ Venha conhecer nosso estande e dar um Oi :3
 | 17:00| x |
 | 18:00| Palestra: Site Reliability Engineering - Minha trajetória e experiência - Artur |
 | 20:00| Campeonato de Just Dance |
-
-
-### Terça, dia 15 - FERIADO
-Limpeza e ir pra casa, sem atividades.
-
