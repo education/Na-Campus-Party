@@ -25,7 +25,7 @@ venha nos dar um Oi :3
 | 16:00| Coffee Break |
 | 17:00| Palestra: Brave != Fearless - Maria Emilia |
 | 18:00| x |
-| 19:00| Git Stage: Raffa Ballerini |
+| 19:00| T-800 Git Stage: Raffa Ballerini |
 | 20:00| Stand-UP PokemaoBR + Fire Pit (roda de conversa) 🔥 Morganna Giovanelli |
 
 
