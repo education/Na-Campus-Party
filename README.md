@@ -6,8 +6,8 @@ Olá campuseiro, tudo o que você precisa saber sobre o GitHub, está neste repo
   - Se inscreva para o [Global Campus](https://bit.ly/3tllaNl) (vá até a nossa bancada para suporte) 
  
 ## Agenda
- Programação das atividades que serão realizadas pelo GitHub na #CPBR14
-Dias 11 a 15 de Novembro de 2022
+Programação das atividades que serão realizadas pelo GitHub na #CPBR14
+
 ### Sexta, dia 11
 Abertuda e networking. 
 Venha conhecer nosso estande e dar um Oi :3
