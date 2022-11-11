@@ -1,16 +1,16 @@
+Olá campuseiro, tudo o que você precisa saber sobre o GitHub, está neste repo. Qualquer dúvida, é só chegar em nosso estande que podemos te ajudar. 
+
 ## Algumas maneiras de participar com o GitHub na Campus Party 
-  - Compartilhe sobre o [PR Patch](https://bit.ly/3UysPDY) com seus amigos. Se você for marcado em três diferentes Pull Requests, VOCÊ ganha uma camiseta do GitHub (retirar em nossa bancada)
-  -  Poste uma foto com o seu Patch e marque o `@GitHubEducation` no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
+  - Compartilhe sobre o [PR Patch](https://bit.ly/3UysPDY) com seus amigos 
+  -  Poste uma foto com a sua swag do GitHub e marque o `@GitHubEducation` no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
   - Se inscreva para o [Global Campus](https://bit.ly/3tllaNl) (vá até a nossa bancada para suporte) 
-  
-  
  
 ## Agenda
  Programação das atividades que serão realizadas pelo GitHub na #CPBR14
 Dias 11 a 15 de Novembro de 2022
 ### Sexta, dia 11
-Abertuda, Networking. 
-venha nos dar um Oi :3
+Abertuda e networking. 
+Venha conhecer nosso estande e dar um Oi :3
 
 ### Sábado, dia 12
 
@@ -28,8 +28,6 @@ venha nos dar um Oi :3
 | 19:00| T-800 Git Stage: Raffa Ballerini |
 | 20:00| Stand-UP PokemaoBR + Fire Pit (roda de conversa) 🔥 Morganna Giovanelli |
 
-
-
 ### Domingo, dia 13
 
 |Horário|Atividade  |
@@ -45,7 +43,6 @@ venha nos dar um Oi :3
 | 18:00| Palestra: A importância de Networking na carreira - Filipe Barros |
 | 19:00| x |
 | 22:00| Baladinha 🪩 |
-
 
 ### Segunda, dia 14
 
