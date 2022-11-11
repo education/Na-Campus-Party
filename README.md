@@ -1,7 +1,7 @@
 ## Algumas maneiras de participar com o GitHub na Campus Party 
   - Compartilhe sobre o [PR Patch](https://bit.ly/3UysPDY) com seus amigos. Se você for marcado em três diferentes Pull Requests, VOCÊ ganha uma camiseta do GitHub (retirar em nossa bancada)
   -  Poste uma foto com o seu Patch e marque o `@GitHubEducation` no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
-  - Se inscreva para o [Student Developer Pack]([https://education.github.com/pack](https://bit.ly/3tllaNl)) (vá até a nossa bancada para suporte) 
+  - Se inscreva para o [Global Campus](https://bit.ly/3tllaNl) (vá até a nossa bancada para suporte) 
   
   
  
