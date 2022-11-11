@@ -2,7 +2,7 @@ Olá campuseiro, tudo o que você precisa saber sobre o GitHub, está neste repo
 
 ## Algumas maneiras de participar com o GitHub na Campus Party 
   - Compartilhe sobre o [PR Patch](https://bit.ly/3UysPDY) com seus amigos 
-  -  Poste uma foto com a sua swag do GitHub e marque o `@GitHubEducation` no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/)
+  -  Poste uma foto com a sua swag do GitHub e marque o `@GitHubEducation` no [Twitter](https://twitter.com/GitHubEducation) e/ou [Instagram](https://www.instagram.com/githubeducation/) e use a `#githubNaCampus`
   - Se inscreva para o [Global Campus](https://bit.ly/3tllaNl) (vá até a nossa bancada para suporte) 
  
 ## Agenda
